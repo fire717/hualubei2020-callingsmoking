@@ -1,0 +1,7 @@
+numpy==1.18.1
+pandas==1.0.2
+pretrainedmodels
+efficientnet_pytorch
+scikit-learn==0.22.1
+albumentations==0.4.6
+opencv-python
